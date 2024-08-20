@@ -1,6 +1,6 @@
 # LeetCodeChallenges
 ## INTRODUCTION
-This repository contains my solutions to the Computer Science challenge, every file contains the solution of a challenge, this solutions work in the LeetCode enviroment that they were developed in, if manual test were to be made additional code is required, my LeetCode user is: [website][https://leetcode.com/u/CamiloVelezP/].
+This repository contains my solutions to the Computer Science challenge, every file contains the solution of a challenge, this solutions work in the LeetCode enviroment that they were developed in, if manual test were to be made additional code is required, my LeetCode user is: https://leetcode.com/u/CamiloVelezP/
 
 ## 1.0 CHALLENGES
 In this section i will explain every challenge individually, my solution and some important data of the solution, so let's begin.
